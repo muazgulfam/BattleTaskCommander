@@ -6,3 +6,4 @@ class Task:
         self.y = y
         self.urgency = urgency
         self.assigned = False
+    
